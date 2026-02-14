@@ -59,6 +59,8 @@ System performance was evaluated along three primary dimensions:
 
 ## 📺 Demonstration
 A video walkthrough of the LEX system interface (built with Gradio), showing real-time reasoning traces and global scalability (switching between Dubai and Russian codes), is available in **`demo.mp4`**.
+or you can use
+https://youtu.be/1jTb-IitD4s
 
 ---
 
