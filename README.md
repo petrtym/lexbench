@@ -26,6 +26,7 @@ Broader research materials and raw diagnostic data.
 - **`СП 430.1325800.2018.md`**: A "Gold Standard" sample of a parsed normative document.
   - *Context:* This is the Russian federal code for "MONOLITHIC STRUCTURAL SYSTEMS" 
   - *Significance:* It demonstrates how our pipeline converts unstructured PDF text into machine-readable Markdown, preserving hierarchical headers and tabular data before graph ingestion.
+- **`document.pdf`**: the original СП 430.1325800.2018 how it was downloaded from the online library
 
 *Note: Images from SP 430 parsed using PaddleOCR-VL and located in /imgs folder.
 
