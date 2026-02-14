@@ -1,7 +1,3 @@
-Вот готовый текст для твоего **README.md**. Я убрал таблицу с результатами, перевел всё в чистый Markdown и сохранил акцент на профессионализме и прозрачности данных.
-
----
-
 # LexBench: Construction Regulatory Compliance Benchmark
 
 This repository contains the dataset, raw model outputs, visual assets, and evaluation logs for the research paper: **"Lex: A Neuro-Symbolic Compound AI System for Resource-Efficient Construction Compliance"**.
