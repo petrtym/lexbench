@@ -23,12 +23,6 @@ Broader research materials and raw diagnostic data.
 - **`LLM-as-judge-keys.pdf`**: Full, raw evaluation logs (**100+ pages**). This document provides the complete chain-of-thought of the Judge model. 
   - *Note: Primary reasoning in these logs is conducted in Russian to maintain the highest precision regarding national technical standards (GOST/SP).*
 
-Visualizations of the underlying system architecture and data scale.
-
-- **`meta_graph.png`**: The ontological schema of the Knowledge Graph, showing how Documents, Norms, Tables, and Images are interconnected.
-- **`RU-code_graph.png`**: A visualization of the **1.1M-edge graph** covering the Russian national construction regulatory corpus.
-- **`DBC_graph.png`**: A visualization of the **Dubai Building Code** graph, demonstrating jurisdiction-agnostic scalability.
-
 ### 📄 Raw Data & Samples
 - **`SP_430_parsed.json`**: The structured dataset containing extracted entities, relations, and semantic metadata used to populate the Knowledge Graph.
 - **`СП 430.1325800.2018.md`**: A "Gold Standard" sample of a parsed normative document.
@@ -37,6 +31,11 @@ Visualizations of the underlying system architecture and data scale.
 
 *Note: Images from SP 430 parsed using PaddleOCR-VL and located in /imgs folder.
 
+Visualizations of the underlying system architecture and data scale.
+
+- **`meta_graph.png`**: The ontological schema of the Knowledge Graph, showing how Documents, Norms, Tables, and Images are interconnected.
+- **`RU-code_graph.png`**: A visualization of the **1.1M-edge graph** covering the Russian national construction regulatory corpus.
+- **`DBC_graph.png`**: A visualization of the **Dubai Building Code** graph, demonstrating jurisdiction-agnostic scalability.
 ---
 
 ## 🧠 System & Methodology
