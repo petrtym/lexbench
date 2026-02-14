@@ -1,5 +1,3 @@
-# LexBench: Construction Regulatory Compliance Benchmark
-
 This repository contains the dataset, raw model outputs, visual assets, and evaluation logs for the research paper: **"Lex: A Neuro-Symbolic Compound AI System for Resource-Efficient Construction Compliance"**.
 
 The goal of LexBench is to provide full transparency into the **deterministic reasoning** capabilities of the LEX system and to demonstrate its architecture for safety-critical engineering domains, where probabilistic hallucinations are unacceptable.
