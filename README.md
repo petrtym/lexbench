@@ -65,7 +65,6 @@ https://youtu.be/1jTb-IitD4s
 
 ## ✍️ Authors
 - **Petr Tymofieiev** — AI Talent Hub, ITMO University.
-- **Ilya Makarov** — AIRI / ISP RAS / ITMO University.
 
 ---
 
