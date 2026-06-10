@@ -1,4 +1,4 @@
-This repository contains the dataset, raw model outputs, visual assets, and evaluation logs for the research paper: **"Lex: A Neuro-Symbolic Compound AI System for Resource-Efficient Construction Compliance"**.
+This repository contains the dataset, raw model outputs, visual assets, and evaluation logs for the research paper.
 
 The goal of LexBench is to provide full transparency into the **deterministic reasoning** capabilities of the LEX system and to demonstrate its architecture for safety-critical engineering domains, where probabilistic hallucinations are unacceptable.
 
@@ -59,15 +59,10 @@ System performance was evaluated along three primary dimensions:
 ## 📺 Demonstration
 A video walkthrough of the LEX system interface (built with Gradio), showing real-time reasoning traces and global scalability (switching between Dubai and Russian codes), is available in **`demo.mp4`**.
 or you can use
-https://youtu.be/1jTb-IitD4s
-
+https://www.youtube.com/watch?v=3D3LZCxjlLk
 ---
 
 ## ✍️ Authors
 - **Petr Tymofieiev** — AI Talent Hub, ITMO University.
 
 ---
-
-### Citation
-If you use this benchmark or the LEX architecture in your research, please cite:
-*(Citation details will be updated upon IJCAI 2026 publication)*
